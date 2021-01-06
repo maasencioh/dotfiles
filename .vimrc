@@ -128,7 +128,8 @@ set shiftwidth=2
 set autoindent
 set softtabstop=2
 
-
+" Relative line number
+set relativenumber
 
 " Instead of failing a command because of unsaved changes, instead raise a
 " dialogue asking if you wish to save changed files.
